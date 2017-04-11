@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                   
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="learnandroid.shilpa.com.myapplication.MainActivity" android:tag="layout/activity_main_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+        <Button
+            android:id="@+id/updateButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/activity_horizontal_margin"
+            android:text="@string/button1" />
+
+        <Button
+            android:id="@+id/nextActivityButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="@dimen/activity_vertical_margin"
+            android:text="@string/next_activity" />
+
+        <TextView
+            android:id="@+id/text_view1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@id/nextActivityButton"
+            android:layout_toLeftOf="@id/nextActivityButton"
+            android:padding="@dimen/activity_horizontal_margin"
+            android:textColor="@color/colorPrimary"
+            android:text="@string/text1a" />
+    </RelativeLayout>
+         
