@@ -11,4 +11,6 @@
     <string name="update_firstname">Update firstname</string>
     <string name="update_lastname">Update lastname</string>
     <string name="update">Update</string>
+    <string name="winner">Winner</string>
+    <string name="action_reset">Reset</string>
 </resources>

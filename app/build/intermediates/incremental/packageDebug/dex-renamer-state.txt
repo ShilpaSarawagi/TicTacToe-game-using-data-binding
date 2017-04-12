@@ -1,7 +1,0 @@
-#Tue Apr 11 16:30:40 EDT 2017
-base.0=C\:\\Users\\ssarawagi\\Documents\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fc55e103e634ade54482c82773b5cd29ef31ab71
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\ssarawagi\\Documents\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9a4a354d00ecd1c7eeb88848cfbcfb5f280130f8\\classes.dex
-base.1=C\:\\Users\\ssarawagi\\Documents\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9a4a354d00ecd1c7eeb88848cfbcfb5f280130f8
-file.0=C\:\\Users\\ssarawagi\\Documents\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fc55e103e634ade54482c82773b5cd29ef31ab71\\classes.dex

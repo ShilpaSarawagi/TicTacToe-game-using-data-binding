@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\ssarawagi\\Documents\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\layout\\tictactoe.xml",
+        "source": "C:\\Users\\ssarawagi\\Documents\\MyApplication\\app\\src\\main\\res\\layout\\tictactoe.xml"
+    },
+    {
+        "merged": "C:\\Users\\ssarawagi\\Documents\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_second.xml",
+        "source": "C:\\Users\\ssarawagi\\Documents\\MyApplication\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\ssarawagi\\Documents\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ssarawagi\\Documents\\MyApplication\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

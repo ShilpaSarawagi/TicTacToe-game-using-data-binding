@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Auto-generated 2017-04-12T15:51Z -->
+<dalp spec='3.01' version='1.0' href='DataBinding.dalp'>
+    <product-id>1711276140</product-id>
+    <information>
+        <title>DataBinding</title>
+        <vendor>Ricoh USA, Inc.</vendor>
+        <telephone>877-318-8968</telephone>
+        <fax>800-333-2679</fax>
+        <description>DataBinding application</description>
+        <application-ver>1.0</application-ver>
+    </information>
+    <information locale='en_US'>
+        <title>DataBinding</title>
+        <vendor>Ricoh USA, Inc.</vendor>
+        <telephone>877-318-8968</telephone>
+        <fax>800-333-2679</fax>
+        <description>DataBinding application</description>
+        <application-ver>1.0</application-ver>
+    </information>
+    <resources>
+        <apk href='./DataBinding.apk'/>
+    </resources>
+    <apk_app_info>
+        <module_id>DataBinding</module_id>
+        <need_reboot>false</need_reboot>
+        <need_activate>false</need_activate>
+    </apk_app_info>
+</dalp>

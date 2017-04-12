@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+    <item name="dataBinding" type="id"/>
+    <item name="onAttachStateChangeListener" type="id"/>
+    <item name="onDateChanged" type="id"/>
+    <item name="textWatcher" type="id"/>
+    <string name="action_reset">Reset</string>
+    <string name="age">Age</string>
+    <string name="app_name">DataBinding</string>
+    <string name="button1">Button 1</string>
+    <string name="firstname">firstname</string>
+    <string name="gender">Gender</string>
+    <string name="lastname">lastname</string>
+    <string name="next_activity">Next</string>
+    <string name="text1a">text1a</string>
+    <string name="text1b">text1b</string>
+    <string name="update">Update</string>
+    <string name="update_firstname">Update firstname</string>
+    <string name="update_lastname">Update lastname</string>
+    <string name="winner">Winner</string>
+    <style name="tictactoebutton">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+</resources>

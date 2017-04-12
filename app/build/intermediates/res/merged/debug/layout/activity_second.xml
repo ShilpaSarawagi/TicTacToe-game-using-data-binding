@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="learnandroid.shilpa.com.myapplication.SecondActivity">
+    tools:context="learnandroid.shilpa.com.myapplication.view.SecondActivity">
 
     <data>
         <variable
-            name="user"
-            type="learnandroid.shilpa.com.myapplication.User" />
+            name="user1"
+            type="learnandroid.shilpa.com.myapplication.viewmodel.User" />
     </data>
 
     <RelativeLayout

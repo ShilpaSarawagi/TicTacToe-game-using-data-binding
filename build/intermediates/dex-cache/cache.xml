@@ -2,139 +2,58 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\ssarawagi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.2"
-        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
-        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_8c8cade5f46e219de0d31553dd545f527909929b\classes.dex" />
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-21.0.3_c19d98aae4eef76ff8cb1bedf728a253f27f2e65.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
-        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.0_17232a6282902214f68df42f35a965acd1c1d88c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
-        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.0_b60e8ab9e48d5ff86ba16bacb1c4ca26299f204d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.2"
+        revision="23.0.3"
         sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
-        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-adapters-1.2.1_53ff1d9b762ed6986fd16a616ef2f1656cc1567e\classes.dex" />
+        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\pre-dexed\release\com.android.databinding-adapters-1.2.1_53ff1d9b762ed6986fd16a616ef2f1656cc1567e.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\ssarawagi\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\2.2.1\30d2b12e06347ece26e565b60cb7de12ed14d13b\baseLibrary-2.2.1.jar"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.2"
-        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
-        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.0_38cee9f78f19d4e7f3d491875e21865f64b82e7c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
-        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.0_a38e54aaef74de1eb550d39253d98b4c63aa3458\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d1605e5c43c06ba57220ea31002ce8d663ce9eac">
-        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9a4a354d00ecd1c7eeb88848cfbcfb5f280130f8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="518768f3200963fbfec652f498da2c9d39245234">
-        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_46d458ec852c9832e994ccc7651c42f8c272634e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
-        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.0_52f3508ebdd2630708b2a35ea128aad9891a847d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
-        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.0_f46f41b423c48f076a05bce68bc6b5be4e4ed1cc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
-        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.0_c94643cf6a6c6833f3097c8f859d00c13e0ccc35\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.0_0a8376bb5e658405a53c5d2b7a1be6e17e517565\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\android\databinding\baseLibrary\2.2.1\baseLibrary-2.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
+        revision="23.0.3"
         sha1="30d2b12e06347ece26e565b60cb7de12ed14d13b">
-        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.2.1_a30902bf5e1150c9cdb7cb72c21faea7960fb22a\classes.dex" />
+        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\pre-dexed\release\baseLibrary-2.2.1_f7b8a2edd735b9ff7ecada1fc74a67832ec24820.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.2"
-        sha1="6afe155fa2566d50346962998c16f6ba875ddf6d">
-        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fc55e103e634ade54482c82773b5cd29ef31ab71\classes.dex" />
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3_03b6b616dbbdb4359b53e11f3abf1fb1bf85775b.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="C:\Users\ssarawagi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3_0db3bf3eaccffb05659511948b657d73557e78fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.2"
+        revision="23.0.3"
         sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
-        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-library-1.2.1_125d8f8c224a9129fc1e5ab59a1625624d323f35\classes.dex" />
+        <dex dex="C:\Users\ssarawagi\Documents\MyApplication\app\build\intermediates\pre-dexed\release\com.android.databinding-library-1.2.1_125d8f8c224a9129fc1e5ab59a1625624d323f35.jar" />
     </item>
 
 </items>
